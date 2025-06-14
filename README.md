@@ -6,7 +6,8 @@ A modern, responsive medical clinic website built with **Next.js 15**, **React 1
 
 ## 🚀 Live Demo
 
-[🔗 View Live Project](https://your-live-site-url.com)  
+[🔗 View Live Project](https://medi-care-chi-nine.vercel.app/)  
+[🔗 GitHub Repository](https://github.com/sharvanrajput/MediCare.git)
 
 
 ---
